@@ -1,0 +1,13 @@
+html {
+  overflow: scroll;
+   overflow-x: hidden;
+  -webkit-touch-callout: none;
+  background-color:#D3D3D3;
+  font-family:sans-sarif;
+  height: 10000px;
+  background-size:cover;
+}
+::-webkit-scrollbar {
+  width: 0px;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
